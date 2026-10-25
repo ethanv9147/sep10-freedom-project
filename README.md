@@ -18,7 +18,7 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **f
 
 ## Implications
 ##### PROS
-* 
+* My website can give many people who are interested in film production insight and new knowledge on it which can help them pursue further as well as more in depth studies on film production. 
 ##### CONS
 * 
 
