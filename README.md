@@ -6,7 +6,7 @@ I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering P
 
 
 ## Content
-For my project, I chose the topic of **Film Production**. 
+For my project, I chose the topic of **Film Production** because it is a very interesting process that really bring stories to life. 
 
 I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **film production** in order to help me make my website informative, well crafted, and appealing.
 
