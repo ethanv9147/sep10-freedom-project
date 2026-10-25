@@ -18,10 +18,17 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **f
 
 ## Implications
 ##### PROS
-* My website can give many people who are interested in film production insight and new knowledge on it which can help them pursue further as well as more in depth studies on film production. 
-##### CONS
-* 
+* My website can give many people who are interested in film production insight and new knowledge on it which can help them pursue further as well as more in depth studies on film production.
 
+* My webite can demonstrate all my most important work and research on film production
+
+* Research and creating a website based off of film production may spark passions that I may not have known that I had. 
+##### CONS
+* My website may lack certain needed information since their is so much depth to film production.
+
+* My research may no be one hundred percent accurate.
+
+* My website may not be as high quality as actually professional and constantly managed websites. 
 
 ## Blog
 Below you will find my blog about how I made my project.
