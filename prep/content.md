@@ -12,7 +12,7 @@ Topic: **Film production**
 
 * The first app I looked at was Meteo Earth. 
 
-  <img width="390" height="235" alt="images (2)" src="https://github.com/user-attachments/assets/efda8555-c310-4799-b117-ad333f98cd75" />
+  <img width="430" height="235" alt="images (2)" src="https://github.com/user-attachments/assets/efda8555-c310-4799-b117-ad333f98cd75" />
 
 
    
@@ -48,7 +48,7 @@ Metoearth can be used on IOS devices, Android devices, computers, and television
 ##### Second app 
 
 * The second app I looked at was  [Sunseeker](https://apps.apple.com/us/app/sun-seeker-sunlight-tracker/id330247123)
-  *<img width="447" height="447" alt="images (4)" src="https://github.com/user-attachments/assets/33ba583a-be41-4b35-b1be-1b8df00e59cf" />
+  *<img width="380" height="380" alt="images (4)" src="https://github.com/user-attachments/assets/33ba583a-be41-4b35-b1be-1b8df00e59cf" />
 " />
 )
 
