@@ -29,13 +29,13 @@ When attempting to gather information for on my topic I found that trying to get
 
 
 #### Following steps
-I will do further research so I could get even more detailed information on my topic and I will begin to format my website into how I would want it to look and function. 
+I will do further research so I could get even more detailed information on my topic and I will begin to format my website into how I would want it to look and function. I will also attempt to consider all the ways that technology could be incorporated into this and how I could use the knowledge I gain through my research can be also used to inform people of the current state and future of film production as well as its constant collaboration with technology. 
 
 
 
 
  
- Text
+ 
 
 [Next](entry02.md)
 
