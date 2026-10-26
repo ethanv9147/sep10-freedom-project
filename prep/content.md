@@ -12,7 +12,7 @@ Topic: **Film production**
 
 * The first app I looked at was Meteo Earth. 
 
-  <img width="447" height="447" alt="images (2)" src="https://github.com/user-attachments/assets/efda8555-c310-4799-b117-ad333f98cd75" />
+  <img width="390" height="235" alt="images (2)" src="https://github.com/user-attachments/assets/efda8555-c310-4799-b117-ad333f98cd75" />
 
 
    
