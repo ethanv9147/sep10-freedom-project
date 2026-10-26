@@ -12,9 +12,18 @@ Topic: **Film production**
 
 * The first app I looked at was Meteo Earth. 
 
-  *<img width="447" height="447" alt="images (2)" src="https://github.com/user-attachments/assets/efda8555-c310-4799-b117-ad333f98cd75" />
-)
+  <img width="447" height="447" alt="images (2)" src="https://github.com/user-attachments/assets/efda8555-c310-4799-b117-ad333f98cd75" />
 
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
    * Pros:
  
   * Assists with visualizing different weather conditions in various different areas.
@@ -66,9 +75,19 @@ The Sunseeker app runs on mobile devices and hardware equipped with a GPS, magne
 
 * The third app I looked at was [Shot designer](https://apps.apple.com/us/app/shot-designer/id556342711)
 
-  *<<img width="512" height="512" alt="unnamed" src="https://github.com/user-attachments/assets/9146b38c-f032-4600-9553-5f70b0788452" />
-" />
-)
+  <img width="512" height="512" alt="unnamed" src="https://github.com/user-attachments/assets/9146b38c-f032-4600-9553-5f70b0788452" />
+
+
+
+
+
+
+
+
+
+
+
+
 * Pros:
 
 * It is for the most part free
