@@ -14,7 +14,7 @@ When deciding which topic I was going to do I attempted to think of something I 
 I am currently in the first stage of the engineering design process. My main goal for the first stage is to get all my ideas together on how I will format my project and what specific information from my topic of film production will I be adding to inform people that are not informed about the current and future technologies widely present in film production. For the next stage of my EDP (Engineering Design Process) I will be beginning my website using previous knowledge on html and css which will be the core of my overall project aside from a few additional things. 
 
  
-##### Skills
+##### Skills:
 
 #### Finding reliable websites 
 When I originally looked through film production websites I came across many that weren't as good as others and I wouldn't have known that if I havent read the information contained in the websites closely. 
