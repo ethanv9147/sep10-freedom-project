@@ -48,9 +48,11 @@ Metoearth can be used on IOS devices, Android devices, computers, and television
 ##### Second app 
 
 * The second app I looked at was  [Sunseeker](https://apps.apple.com/us/app/sun-seeker-sunlight-tracker/id330247123)
-  *<img width="380" height="380" alt="images (4)" src="https://github.com/user-attachments/assets/33ba583a-be41-4b35-b1be-1b8df00e59cf" />
-" />
-)
+
+ 
+ <img width="380" height="380" alt="images (4)" src="https://github.com/user-attachments/assets/33ba583a-be41-4b35-b1be-1b8df00e59cf" />
+
+
 
 * Pros:
 
