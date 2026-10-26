@@ -24,6 +24,14 @@ When attempting to gather information for on my topic I found that trying to get
 
 
 
+
+
+#### Following steps
+I will do further research so I could get even more detailed information on my topic and I will begin to format my website into how I would want it to look and function. 
+
+
+
+
  
  Text
 
