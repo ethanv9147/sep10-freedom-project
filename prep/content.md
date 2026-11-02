@@ -39,7 +39,7 @@ Topic: **Film production**
   *The overall data on different weather conditions that it provides you with are highly accurate.
 
    
-##### Hardware
+##### Hardware that the app runs on 
 Metoearth can be used on IOS devices, Android devices, computers, and televisions as well as displays.  
 
 
@@ -68,7 +68,7 @@ Metoearth can be used on IOS devices, Android devices, computers, and television
 
 
 
-##### Hardware
+##### Hardware that the app run on 
 The Sunseeker app runs on mobile devices and hardware equipped with a GPS, magnetometer, and gyroscope.   
 
 
@@ -104,7 +104,7 @@ The Sunseeker app runs on mobile devices and hardware equipped with a GPS, magne
 
 
 
-##### Hardware
+##### Hardware that the app runs on 
 Hardwares that run Shot designer are mobile devices and windows as well as macbook desktop computers. 
 
 
@@ -121,7 +121,10 @@ Hardwares that run Shot designer are mobile devices and windows as well as macbo
 
 ##Part B: possible future technology 
 
-#Idea 
+Film production comes with it varying technologies also known as hardwares. Some of these hardwares cost more than others due to the quality of them. Most of the time, good quality film hardware can be very expensive but even the lower priced ones can serve as very good quality as well as efficient.  
+
+#Idea   
+
 
 #Detail  
 
