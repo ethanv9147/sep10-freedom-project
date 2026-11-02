@@ -102,6 +102,8 @@ The Sunseeker app runs on mobile devices and hardware equipped with a GPS, magne
 
 * It can auto generate a shot list 
 
+
+
 ##### Hardware
 Hardwares that run Shot designer are mobile devices and windows as well as macbook desktop computers. 
 
@@ -109,6 +111,17 @@ Hardwares that run Shot designer are mobile devices and windows as well as macbo
 
 
 
+####Hardware 
 
+#tech 
 
+#detail 
+
+#img 
+
+##Part B: possible future technology 
+
+#Idea 
+
+#Detail  
 
