@@ -154,7 +154,7 @@ Cons:
 
 -The next film production hardware that I researched was the puture STORM 1200x Tunable White LED Monolight
   
- <img width="480" height="435" alt="images (2)" src=" <img width="480" height="435" alt="images (2)" src="https://www.filmtools.com/media/catalog/product/1/7/1724152818_1848319.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=521&width=521&canvas=521:521" />" />
+ <img width="480" height="435" alt="images (2)" src="https://www.filmtools.com/media/catalog/product/a/z/azswcvwse.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=521&width=521&canvas=521:521&format=jpeg" />
 
 The puture STORM 1200x Tunable White LED Monolight is a 1,200W high-output point-source lighting fixture designed for film, television, and professional productionpriced at $2,990.
 
