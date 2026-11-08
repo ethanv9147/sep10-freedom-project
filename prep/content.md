@@ -125,7 +125,7 @@ Reliable websites that I looked into to find hardware used for film production w
 # Hardware 1 
 
 The first hardware that I looked at was the Sony PXW-Z200 4K 1" CMOS Sensor XDCAM Camcorder 
- <img width="480" height="435" alt="images (2)" src="https://www.filmtools.com/media/catalog/product/1/7/1724152818_1848319.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=521&width=521&canvas=521:521" />
+ <img width="480" height="435" alt="images (2)" src="https://www.filmtools.com/media/catalog/product/a/z/azswcvwse.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=521&width=521&canvas=521:521&format=jpeg" />
 
 
 
