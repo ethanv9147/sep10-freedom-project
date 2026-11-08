@@ -125,7 +125,7 @@ Reliable websites that I looked into to find hardware used for film production w
 # Hardware 1 
 
 The first hardware that I looked at was the Sony PXW-Z200 4K 1" CMOS Sensor XDCAM Camcorder 
- <img width="480" height="435" alt="images (2)" src="https://www.filmtools.com/media/catalog/product/a/z/azswcvwse.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=521&width=521&canvas=521:521&format=jpeg" />
+ <img width="480" height="435" alt="images (2)" src="https://www.filmtools.com/media/catalog/product/1/7/1724152818_1848319.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=521&width=521&canvas=521:521" />
 
 
 
@@ -154,7 +154,7 @@ Cons:
 
 -The next film production hardware that I researched was the puture STORM 1200x Tunable White LED Monolight
   
-  <img width="380" height="380" alt="images (4)" https://www.filmtools.com/media/catalog/product/a/z/azswcvwse.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=521&width=521&canvas=521:521&format=jpeg" /> 
+ <img width="480" height="435" alt="images (2)" src=" <img width="480" height="435" alt="images (2)" src="https://www.filmtools.com/media/catalog/product/1/7/1724152818_1848319.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=521&width=521&canvas=521:521" />" />
 
 The puture STORM 1200x Tunable White LED Monolight is a 1,200W high-output point-source lighting fixture designed for film, television, and professional productionpriced at $2,990.
 
