@@ -179,4 +179,43 @@ Cons:
 
 
 
+# Hardware 3
+
+-The third film production hardware that I researched was the Astera 8x FP1 Titan Tube 72W Battery Operated LED Tube Light with Charging Case.
+
+ <img width="480" height="435" alt="images (2)" src="https://www.filmtools.com/media/catalog/product/f/p/fp1-set.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=521&width=521&canvas=521:521" />
+
+-The Astera 8x FP1 Titan Tube 72W Battery Operated LED Tube Light with Charging Case (FP1-SET) is a professional lighting kit built for cinema, television, broadcasting, and live events. 
+
+
+
+Pros: 
+
+  * It features a CRI and TLCI rating of ≥ 96, ensuring natural skin tones and accurate gel or filter matching.
+
+  * The LED tube light offers tunable white light from a warm 1,750K up to a cool 20,000K.
+
+  * It provides up to 2.8x higher brightness in white light for short bursts or while connected to AC power.
+
+  * It is built to withstands unpredictable as well as harsh weather conditions.
+
+
+Cons: 
+
+ * The LED tube is very expensive costing $8,581.50
+
+ * It includes various brightness limitations
+
+ * The full 8-bulb kit together with the heavy-duty wheeled charging case weighs roughly 79 lbs (35.8 kg), making it heavy to transport with only one person
+
+
+
+
+
+# Summary 
+
+All of the hardwares that I presented all contain very unique properties to them that all come with their limitations but aside from these limitation they also come with their benefits that really makes them stand out when compared to other hardwares that are involved in the film production process. 
+
+
+
 
