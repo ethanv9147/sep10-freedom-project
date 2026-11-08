@@ -111,7 +111,7 @@ Hardwares that run Shot designer are mobile devices and windows as well as macbo
 
 
 
-####Hardware 
+####Hardware   
 
 #tech 
 
@@ -120,11 +120,35 @@ Hardwares that run Shot designer are mobile devices and windows as well as macbo
 #img 
 
 ##Part B: possible future technology 
-
+# Content
 Film production comes with it varying technologies also known as hardwares. Some of these hardwares cost more than others due to the quality of them. Most of the time, good quality film hardware can be very expensive but even the lower priced ones can serve as very good quality as well as efficient.  
 
-#Idea   
+## Overview/Introduction/Context
+Reliable websites that I looked into to find hardware used for film production was [Film tools ](https://www.filmtools.com).
+-Film tools contains a variety of different hardwares used in film production all from the most affordable selections to the most premium and high quality ones that cannot be found in many places. 
+
+The first hardware that I looked at was the Sony PXW-Z200 4K 1" CMOS Sensor XDCAM Camcorder 
+
+ <img width="380" height="380" alt="images (4)" src="https://www.filmtools.com/media/catalog/product/1/7/1724152818_1848319.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=521&width=521&canvas=521:521" />
 
 
-#Detail  
+  Pros: 
+  * It serves immensely high quality recordings with astonishing color as well as contrat
+
+  * It can be used in various settings.
+
+  * The camera is highly durable.
+
+  * The camera is able to record for extensive periods of time.
+
+  * The camera includes an ai assisted autofocus and auto framing.
+
+
+Cons: 
+
+  * The cameras low-light capability is limited compared to larger or alternative sensor designs.
+
+  *  The camera is very sensitive to light in certain settings, meaning an ND filter may be needed even indoors under standard lighting.
+
+  *  You cannot charge the camera while it is attached to the camera body using a standard AC power adapter. The camera requires a separate external charger which is not included with the base camera.
 
