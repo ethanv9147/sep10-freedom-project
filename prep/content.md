@@ -18,13 +18,7 @@ Topic: **Film production**
    
    
    
-   
-   
-   
-   
-   
-   
-   * Pros:
+   Pros:
  
   * Assists with visualizing different weather conditions in various different areas.
  
@@ -127,6 +121,9 @@ Film production comes with it varying technologies also known as hardwares. Some
 Reliable websites that I looked into to find hardware used for film production was [Film tools ](https://www.filmtools.com).
 -Film tools contains a variety of different hardwares used in film production all from the most affordable selections to the most premium and high quality ones that cannot be found in many places. 
 
+
+# Hardware 1 
+
 The first hardware that I looked at was the Sony PXW-Z200 4K 1" CMOS Sensor XDCAM Camcorder 
 
  <img width="380" height="380" alt="images (4)" src="https://www.filmtools.com/media/catalog/product/1/7/1724152818_1848319.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=521&width=521&canvas=521:521" />
@@ -151,4 +148,35 @@ Cons:
   *  The camera is very sensitive to light in certain settings, meaning an ND filter may be needed even indoors under standard lighting.
 
   *  You cannot charge the camera while it is attached to the camera body using a standard AC power adapter. The camera requires a separate external charger which is not included with the base camera.
+
+
+# Hardware 2 
+
+-The next film production hardware that I researched was the puture STORM 1200x Tunable White LED Monolight
+  
+  <img width="380" height="380" alt="images (4)" https://www.filmtools.com/media/catalog/product/a/z/azswcvwse.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=521&width=521&canvas=521:521&format=jpeg" /> 
+
+The puture STORM 1200x Tunable White LED Monolight is a 1,200W high-output point-source lighting fixture designed for film, television, and professional productionpriced at $2,990.
+
+Pros: 
+
+  * The mono light uses a 5 color diode mix of blue, lime, amber, indigo, and Red (without traditional white LEDs) to generate a rich, full-spectrum white light with higher luminous efficiency per watt.
+
+  * It incorporates an indigo diode that enhances the rendering of fluorescing and practical materials.
+
+  *  It delivers a color temperature range from 2,500K to 10,000K paired with a full ±100% green-magenta adjustment
+
+  *  It features a locking, screw-down clamping Bowens mount that prevents heavy or optical modifiers from shifting, wobbling, or sagging.
+
+
+Cons:
+
+  * Users report that the lamp head is notably heavy, weighing more than previous generations
+
+  * Some reviewers report that the included wide/hyper reflector can produce a somewhat uneven beam pattern when compared to competing high-output lights.
+
+  * Achieving pure CCT accuracy requires using the light without a modifier. 
+
+
+
 
