@@ -221,3 +221,21 @@ All of the hardwares that I presented all contain very unique properties to them
 
 
 
+
+
+
+
+
+# Organizing into sections 
+
+
+
+
+# Context 
+
+When becoming involved in film production it becomes very apparent that many softwares and hardwares have certain
+
+
+
+
+
