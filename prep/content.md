@@ -117,11 +117,11 @@ Cons:
 
 
 
- ##### Difficult to use 
  
+ 
+#  Difficult to use
 
- 
- ##### Sunseeker,software
+#  Sunseeker,software
 
 * An app used in film production that I looked at was  [Sunseeker](https://apps.apple.com/us/app/sun-seeker-sunlight-tracker/id330247123) (Sunseeker is difficult to use because depending on your device, the apps data may not always be the most accurate.) 
 
