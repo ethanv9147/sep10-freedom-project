@@ -215,7 +215,7 @@ Cons:
 
 # Summary 
 
-All of the hardwares that I presented all contain very unique properties to them that all come with their limitations but aside from these limitation they also come with their benefits that really makes them stand out when compared to other hardwares that are involved in the film production process. 
+All of the hardwares and softwares that I presented all contain very unique properties to them that all come with their limitations but aside from these limitation they also come with their benefits that really makes them stand out when compared to other hardwares as well as softwares that are involved in the film production process. 
 
 
 
