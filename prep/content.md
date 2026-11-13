@@ -18,7 +18,7 @@ Topic: **Film production**
 
 ## Meteo Earth,software 
 
-* The first app I looked at was Meteo Earth. (It is easy because it turns mass amounts of complex data into a simple 3d experience that people can utilize without any special training or experience.) 
+* An app that I looked at was Meteo Earth. (It is easy because it turns mass amounts of complex data into a simple 3d experience that people can utilize without any special training or experience.) 
 
   <img width="480" height="435" alt="images (2)" src="https://github.com/user-attachments/assets/efda8555-c310-4799-b117-ad333f98cd75" />
 
@@ -48,7 +48,7 @@ Metoearth can be used on IOS devices, Android devices, computers, and television
 
 ##### Shot designer,software 
 
-* The third app I looked at was [Shot designer](https://apps.apple.com/us/app/shot-designer/id556342711) (This app is easy to use because you can quickly drag and drop actors, cameras, lights, and props onto a 2D canvas instead of drawing diagrams by hand.) 
+*Another app I looked at was [Shot designer](https://apps.apple.com/us/app/shot-designer/id556342711) (This app is easy to use because you can quickly drag and drop actors, cameras, lights, and props onto a 2D canvas instead of drawing diagrams by hand.) 
 
   <img width="512" height="512" alt="unnamed" src="https://github.com/user-attachments/assets/9146b38c-f032-4600-9553-5f70b0788452" />
 
@@ -73,35 +73,8 @@ Metoearth can be used on IOS devices, Android devices, computers, and television
 ##### Hardware that the app runs on 
 Hardwares that run Shot designer are mobile devices and windows as well as macbook desktop computers. 
 
-#  Puture STORM 1200x Tunable White LED Monolight, hardware 
--A film production hardware that I researched was the puture STORM 1200x Tunable White LED Monolight
-  
- <img width="480" height="435" alt="images (2)" src="https://www.filmtools.com/media/catalog/product/a/z/azswcvwse.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=521&width=521&canvas=521:521&format=jpeg" />
 
-The puture STORM 1200x Tunable White LED Monolight is a 1,200W high-output point-source lighting fixture designed for film, television, and professional productionpriced at $2,990.
-
-Pros: 
-
-  * The mono light uses a 5 color diode mix of blue, lime, amber, indigo, and Red (without traditional white LEDs) to generate a rich, full-spectrum white light with higher luminous efficiency per watt.
-
-  * It incorporates an indigo diode that enhances the rendering of fluorescing and practical materials.
-
-  *  It delivers a color temperature range from 2,500K to 10,000K paired with a full ±100% green-magenta adjustment
-
-  *  It features a locking, screw-down clamping Bowens mount that prevents heavy or optical modifiers from shifting, wobbling, or sagging.
-
-
-Cons:
-
-  * Users report that the lamp head is notably heavy, weighing more than previous generations
-
-  * Some reviewers report that the included wide/hyper reflector can produce a somewhat uneven beam pattern when compared to competing high-output lights.
-
-  * Achieving pure CCT accuracy requires using the light without a modifier. 
-
-
- 
- # Astera 8x FP1 Titan Tube 72W Battery Operated LED Tube Light with Charging Case, hardware 
+# Astera 8x FP1 Titan Tube 72W Battery Operated LED Tube Light with Charging Case, hardware 
 
 -The third film production hardware that I researched was the Astera 8x FP1 Titan Tube 72W Battery Operated LED Tube Light with Charging Case. (This hardware is easy to use it combines wireless freedom, multi-option control systems, and a built-in case-charging workflow into a portable kit.)       
 
@@ -137,11 +110,20 @@ Cons:
  
  
  
-   ##### Difficult to use
+ 
+
+
+
+
+
+
+   ###### Difficult to use
+ 
+
  
  ##### Sunseeker,software
 
-* The second app I looked at was  [Sunseeker](https://apps.apple.com/us/app/sun-seeker-sunlight-tracker/id330247123) (Sunseeker is difficult to use because depending on your device, the apps data may not always be the most accurate.) 
+* An app used in film production that I looked at was  [Sunseeker](https://apps.apple.com/us/app/sun-seeker-sunlight-tracker/id330247123) (Sunseeker is difficult to use because depending on your device, the apps data may not always be the most accurate.) 
 
  
  <img width="380" height="380" alt="images (4)" src="https://github.com/user-attachments/assets/33ba583a-be41-4b35-b1be-1b8df00e59cf" />
@@ -167,12 +149,38 @@ The Sunseeker app runs on mobile devices and hardware equipped with a GPS, magne
 
 
 
+#  Puture STORM 1200x Tunable White LED Monolight, hardware 
+-A film production hardware that I researched was the puture STORM 1200x Tunable White LED Monolight (It is difficult to use because of a combination of heavy physical weight , complex five-color engine settings, occasional malfunctions, and hardware quality control issues.)
+  
+ <img width="480" height="435" alt="images (2)" src="https://www.filmtools.com/media/catalog/product/a/z/azswcvwse.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=521&width=521&canvas=521:521&format=jpeg" />
+
+The puture STORM 1200x Tunable White LED Monolight is a 1,200W high-output point-source lighting fixture designed for film, television, and professional productionpriced at $2,990.
+
+Pros: 
+
+  * The mono light uses a 5 color diode mix of blue, lime, amber, indigo, and Red (without traditional white LEDs) to generate a rich, full-spectrum white light with higher luminous efficiency per watt.
+
+  * It incorporates an indigo diode that enhances the rendering of fluorescing and practical materials.
+
+  *  It delivers a color temperature range from 2,500K to 10,000K paired with a full ±100% green-magenta adjustment
+
+  *  It features a locking, screw-down clamping Bowens mount that prevents heavy or optical modifiers from shifting, wobbling, or sagging.
+
+
+Cons:
+
+  * Users report that the lamp head is notably heavy, weighing more than previous generations
+
+  * Some reviewers report that the included wide/hyper reflector can produce a somewhat uneven beam pattern when compared to competing high-output lights.
+
+  * Achieving pure CCT accuracy requires using the light without a modifier. 
+
 
 
 
 # CMOS Sensor XDCAM Camcorder, hardware 
 
-The first hardware that I looked at was the Sony PXW-Z200 4K 1" CMOS Sensor XDCAM Camcorder (This hardware is difficult to use because it has multiple difficult controls which require excessive amounts of time worth of experience.) 
+One of the various film production hardwared that I looked at was the Sony PXW-Z200 4K 1" CMOS Sensor XDCAM Camcorder (This hardware is difficult to use because it has multiple difficult controls which require excessive amounts of time worth of experience.) 
  <img width="480" height="435" alt="images (2)" src="https://www.filmtools.com/media/catalog/product/1/7/1724152818_1848319.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=521&width=521&canvas=521:521" />
 
 
