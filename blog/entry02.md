@@ -25,7 +25,7 @@ I am currently in the second stage of my engineering design process (EDP). Durin
 
 After doing all of this research on various softwares,hardwares, and website design ideas I have established new skills for myself, these skills consist of:
 
-#-Efficient research 
+-Efficient research 
 When researching I had to make sure that too not stay too much time trying to find one thing, so I made sure that I skimmed over all the unimportant info and focused on important info such as prices as well as quality. 
 
 
