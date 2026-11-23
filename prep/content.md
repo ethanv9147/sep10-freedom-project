@@ -209,8 +209,10 @@ Cons:
 
 
 
+#  Invention ideas 
 
-
+* Portable hologram that can project humans as well as medium sized structures.
+Details: 
 
 
 # Summary 
